@@ -1,0 +1,11 @@
+.slide{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.second{
+  padding-top: 5%;
+  
+ 
+  text-align: middle;
+}
